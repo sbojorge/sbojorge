@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Sara and I love coding 😻.<br>
+<h1 align="center">I'm Sara and I love coding 😻</h1> <br>
 I (re)discovered it in 2022 and got the impression that I had have found my new world so I didn't hesitate for a career change.<br>
 So here I am with new tech skills and open to keep learning and sharing what I know.
 
