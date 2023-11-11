@@ -9,7 +9,7 @@ So here I am with new tech skills and open to keep learning and sharing what I k
 -->
 
 - 🔭 I’m currently working on building a static frontend site inspired in the Coders Coffeehouse by Code Institute.
-- 🌱 I’m currently reviewing and going deeper into advanced JavaScript concepts.
+- 🌱 I’m currently learning Linux.
 - 📫 You can reach me at: sara.bojorge@gmail.com <br>
 - ⚡ Fun fact: I'm crazy about 🥑 accesories: stuffed animals, cups, socks...EVERYTHING! and tasty real avocados of course 😋
 <!-- 👯 I’m looking to collaborate on Django, Python, React projects.-->
